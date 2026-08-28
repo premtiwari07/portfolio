@@ -97,7 +97,7 @@ body {
 
 /* ── HERO ── */
 .hero {
-    min-height: 100vh;
+    min-height: 95vh;
     background: var(--bg);
     position: relative;
     display: flex;
